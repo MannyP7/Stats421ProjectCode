@@ -2,7 +2,9 @@
 # 30145004 
 
 # Scenario 2(a)
-
+#AI disclosure:
+#Used ChatGPT to assist in clarifying instructions, debugging code and checking my methods and calculations. Also used for writing Rmarkdown code from my written work.
+#
 #finding the argmax of L(theta)
 N0  = 496      
 n0  = 4       
@@ -394,3 +396,4 @@ plot(results$n2, results$bern_prob, type = "b",xlab = "n2", ylab = "Probability"
  
  
  
+
