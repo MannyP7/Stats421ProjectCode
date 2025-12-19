@@ -9,7 +9,8 @@ simulations used to obtain the results reported in the written submission.
 ---
 
 ## File overview
-
+- `STAT 421 R code.R`
+  Contains the full R implementation for Scenario 1
 - `Stats421ProjectCode.R`  
   Contains the full R implementation for Scenario 2, including:
   - Part (a): likelihood evaluation and maximization
